@@ -12,8 +12,8 @@ This PHP-based Inventory Management System handles product sales and information
 - **Dashboard**: Displays recent product sales with the highest quantities.
 - **System Organization**: Organizes records by category and provides detailed sales information, including buying and selling prices, total cost, date, quantities, and profit margins.
 
-## Slide
-For more details, visit the [Inventory Management System Documentation](https://gamma.app/docs/Inventory-Management-System-ssv9pivp27zr3fc).
+## Project Presentation
+Slides [Inventory Management System Documentation](https://gamma.app/docs/Inventory-Management-System-ssv9pivp27zr3fc).
 
 ## Video Overview
 [![Video Overview](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
