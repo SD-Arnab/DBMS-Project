@@ -34,4 +34,7 @@ This PHP-based Inventory Management System handles product sales and information
 - Highest selling products
 
 ## ER Diagram Model
-![ER Diagram for Inventory Management System](https://drive.google.com/file/d/1TDGR59ardotENNZo11m1qxzqT_51qhh9/view?usp=sharing)
+## ER Diagram Model
+
+![ER Diagram for Inventory Management System](https://drive.google.com/uc?id=1TDGR59ardotENNZo11m1qxzqT_51qhh9)
+
