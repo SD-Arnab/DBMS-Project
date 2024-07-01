@@ -36,5 +36,5 @@ This PHP-based Inventory Management System handles product sales and information
 ## ER Diagram Model
 ## ER Diagram Model
 
-![ER Diagram for Inventory Management System](https://drive.google.com/uc?id=1TDGR59ardotENNZo11m1qxzqT_51qhh9)
+![ER Diagram for Inventory Management System](https://github.com/SD-Arnab/DBMS-Project/blob/8e2348de7f0b380eb0bf4b2cf739f8b70417d6d2/ER%20Diagram%20and%20Flowchat/IMS-ERD.jpg)
 
