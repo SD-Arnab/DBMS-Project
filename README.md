@@ -16,7 +16,8 @@ This PHP-based Inventory Management System handles product sales and information
  [Slides](https://gamma.app/docs/Inventory-Management-System-ssv9pivp27zr3fc).
 
 ## Video Overview
-[![Video Overview](https://img.youtube.com/vi/YOUR_YOUTUBE_VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=YOUR_YOUTUBE_VIDEO_ID)
+
+[![Video Overview](https://img.youtube.com/vi/lTOOl66ytB8/0.jpg)](https://www.youtube.com/watch?v=lTOOl66ytB8)
 
 ## Available Features
 - Admin panel
